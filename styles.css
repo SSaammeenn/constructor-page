@@ -1,0 +1,53 @@
+
+
+ .header1{
+    background-image: url('https://wallpapers.com/images/hd/a-cropped-photo-of-a-construction-worker-ud9f840nkmboshfu.jpg'); /* Set the background image */
+    background-size: cover; /* Cover the entire header area */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Do not repeat the background image */
+    height: 450px; /* Adjust the height of the header */
+    text-align: center; /* Center align the content within the header */
+    color:white; /* Text color */
+    padding-top: 50px; 
+    position: relative;
+}
+.class1{
+    text-align: left;
+    font-size: 60px;
+    padding-top :0; 
+    margin-left: 200px;
+    font-size:60px ;
+    font-weight: bolder;
+}
+.class4{
+    text-align: left;
+    font-size: 20px;
+    padding-top :100px; 
+    margin-left: 200px;
+}
+
+ .section2{
+    display: flex;
+    gap:0px; 
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 200px;
+    margin-top: 200px;    
+}
+.h4 {
+    font-size: normal;
+    margin-top:270px ;
+    justify-content: center;
+
+}
+img{
+    
+    height:250px;
+    width:400px ;
+    
+}
+.h6{
+    font-size: normal;
+    margin-top:270px ;
+    justify-content: center;
+}
